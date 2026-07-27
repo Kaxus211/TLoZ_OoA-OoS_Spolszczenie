@@ -12,9 +12,9 @@ Jest to moje pierwsze spolszczenie, a zarazem spełnienie małego marzenia. Od d
 
 Projekt powstał z pasji i został przygotowany całkowicie niekomercyjnie. Patch zawiera wyłącznie moje tłumaczenie oraz zmiany niezbędne do jego działania.
 
-==================================================
+=============================================
 INSTALACJA - WINDOWS
-==================================================
+=============================================
 
 1. Pobierz program Floating IPS (Flips).
 2. Uruchom program i wybierz "Apply Patch".
@@ -22,18 +22,18 @@ INSTALACJA - WINDOWS
 4. Wskaż czysty ROM gry w wersji USA.
 5. Program utworzy spolszczony ROM.
 
-==================================================
+============================================
 INSTALACJA - macOS
-==================================================
+============================================
 
 1. Pobierz program MultiPatch.
 2. W polu "Patch" wybierz plik .bps.
 3. W polu "ROM" wskaż czysty ROM gry w wersji USA.
 4. Kliknij "Apply Patch".
 
-==================================================
+=============================================
 WAŻNE
-==================================================
+=============================================
 
 Patch działa WYŁĄCZNIE z amerykańską (USA) wersją gry.
 
@@ -41,9 +41,9 @@ Nie będzie działał z wersją europejską, japońską ani innymi wydaniami.
 
 Patch nie zawiera pełnego ROM-u gry.
 
-==================================================
+============================================
 INFORMACJE PRAWNE
-==================================================
+============================================
 
 The Legend of Zelda, Oracle of Seasons, Nintendo, Game Boy Color oraz wszystkie nazwy, grafiki, muzyka, znaki towarowe i prawa autorskie związane z grą należą do Nintendo Co., Ltd.
 
@@ -51,15 +51,15 @@ To spolszczenie jest nieoficjalnym projektem fanowskim. Nie jest w żaden sposó
 
 Projekt został przygotowany wyłącznie hobbystycznie. Jest udostępniany bezpłatnie, nie zawiera danych oryginalnej gry i nie przynosi autorowi żadnych korzyści finansowych.
 
-==================================================
+============================================
 ZGŁASZANIE BŁĘDÓW
-==================================================
+============================================
 
 Jeżeli znajdziesz literówki, błędy tłumaczenia lub problemy techniczne, będę wdzięczny za zgłoszenie na forum GrajPoPolsku lub w miejscu, z którego pobrałeś patch.
 
-==================================================
+============================================
 PODZIĘKOWANIA
-==================================================
+============================================
 
 • Autorom projektu oracles-disasm
 • Marcinowi "AI Pacino"
