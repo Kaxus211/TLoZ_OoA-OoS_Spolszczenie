@@ -73,9 +73,9 @@ Kaxus
 
 
 English:
-==================================================
+============================================
 IMPORTANT
-==================================================
+============================================
 
 This patch works **ONLY** with the **USA** version of the game.
 
@@ -83,9 +83,9 @@ It is **not compatible** with the European, Japanese, or any other regional rele
 
 This patch does **not** include the full game ROM.
 
-==================================================
+============================================
 LEGAL NOTICE
-==================================================
+============================================
 
 The Legend of Zelda™, Oracle of Seasons™, Nintendo®, Game Boy Color™, and all related names, graphics, music, trademarks, and copyrights associated with the game are the property of Nintendo Co., Ltd.
 
