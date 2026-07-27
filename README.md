@@ -31,9 +31,9 @@ INSTALACJA - macOS
 3. W polu "ROM" wskaż czysty ROM gry w wersji USA.
 4. Kliknij "Apply Patch".
 
-=============================================
+============================================
 WAŻNE
-=============================================
+============================================
 
 Patch działa WYŁĄCZNIE z amerykańską (USA) wersją gry.
 
