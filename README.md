@@ -12,9 +12,9 @@ Jest to moje pierwsze spolszczenie, a zarazem spełnienie małego marzenia. Od d
 
 Projekt powstał z pasji i został przygotowany całkowicie niekomercyjnie. Patch zawiera wyłącznie moje tłumaczenie oraz zmiany niezbędne do jego działania.
 
-=============================================
+============================================
 INSTALACJA - WINDOWS
-=============================================
+============================================
 
 1. Pobierz program Floating IPS (Flips).
 2. Uruchom program i wybierz "Apply Patch".
